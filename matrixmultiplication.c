@@ -69,7 +69,7 @@ main()
   scanf("%d", &rows2);
   if(cols1 != rows2)
   {
-    printf("Well that was a waste of both of our time\nGoodbye now\n");
+    printf("Unable to multiply\nGoodbye now\n");
   }
   else
   {
